@@ -2,7 +2,7 @@
 A Full-Stack, Real-Time Chat Application  
 
 This project is a complete, full-stack real-time chat application built from the ground up.  
-It serves as a comprehensive guide for anyone looking to build a modern, feature-rich messaging platform, covering everything from user authentication to real-time communication and security.  
+It serves as a feature-rich messaging platform ,implementing everything from user authentication to real-time communication and security.  
 
 ---
 
